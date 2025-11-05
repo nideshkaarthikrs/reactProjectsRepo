@@ -1,6 +1,6 @@
 To configure bootstrap with react:
 
-cmd> npm install bootstrap or cmd>npm i bootstrap@5.3.7 (currently 5.3.7 is the latest version)
+cmd> npm install bootstrap or cmd>npm i bootstrap@5.3.7 (currently at the time of typin this shi, 5.3.7 is the latest version)
 
 To configure font-awesome with react:
 cmd> npm install font-awesome
