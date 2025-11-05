@@ -1,0 +1,7 @@
+.navbar {
+    background: linear-gradient(to right, blue, violet);
+    padding: 0.25rem;
+}
+.navbar h2{
+    margin: 0px;
+}

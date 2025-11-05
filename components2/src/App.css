@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+.sofia-regular {
+  font-family: "Sofia", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.App {
+  color: white;
+  background: #210F37;
+  border: 0.5rem solid #4F1C51;
+  border-radius: 1rem;
+  box-shadow: 10px 5px 5px black;
+  padding: 1rem;
+}

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600;700&display=swap');
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding-bottom: 2rem;
+  font-family: 'Fredoka', sans-serif;
+}
+
+body {
+  background: radial-gradient(circle at 50% 50%, #ff9a9e, #fad0c4, #a1c4fd, #c2e9fb);
+  background-size: 800% 800%;
+  animation: gradientShift 12s ease infinite;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Animate the gradient movement */
+@keyframes gradientShift {
+  0% { background-position: 0% 0%; }
+  25% { background-position: 100% 0%; }
+  50% { background-position: 100% 100%; }
+  75% { background-position: 0% 100%; }
+  100% { background-position: 0% 0%; }
+}

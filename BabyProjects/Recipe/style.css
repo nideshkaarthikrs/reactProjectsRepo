@@ -1,0 +1,16 @@
+header {
+    background-color: floralwhite;
+    color: darkred;
+}
+
+.ingredients li {
+    color: green;
+}
+
+.instructions li {
+    color: mediumblue;
+}
+
+footer {
+    font-style: italic;
+}

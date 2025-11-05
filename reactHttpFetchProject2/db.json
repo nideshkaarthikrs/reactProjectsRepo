@@ -1,0 +1,94 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "title": "Smartphone X",
+      "category": "Electronics",
+      "price": 1000,
+      "description": "A high-end smartphone with a powerful camera and long-lasting battery.",
+      "inStock": true,
+      "poster": "https://picsum.photos/200"
+    },
+    {
+      "id": "2",
+      "title": "Laptop Pro 15",
+      "category": "Electronics",
+      "price": 2000,
+      "description": "Powerful laptop for professionals, ideal for heavy tasks and multitasking.",
+      "inStock": false,
+      "poster": "https://picsum.photos/200"
+    },
+    {
+      "id": "3",
+      "title": "Organic Coffee Beans",
+      "category": "Groceries",
+      "price": 1000,
+      "description": "Premium organic coffee beans, medium roast, 250g pack.",
+      "inStock": true,
+      "poster": "https://picsum.photos/200"
+    },
+    {
+      "id": "4",
+      "title": "Bluetooth Headphones",
+      "category": "Electronics",
+      "price": 4000,
+      "description": "Comfortable over-ear headphones with excellent sound quality.",
+      "inStock": false,
+      "poster": "https://picsum.photos/200"
+    },
+    {
+      "id": "5",
+      "title": "Running Shoes Z1",
+      "category": "Footwear",
+      "price": 3000,
+      "description": "Lightweight running shoes designed for optimal performance.",
+      "inStock": true,
+      "poster": "https://picsum.photos/200"
+    },
+    {
+      "id": "6",
+      "title": "Mouse",
+      "category": "Gadgets",
+      "price": "499",
+      "description": "Nice mouse!",
+      "inStock": "false",
+      "poster": "https://picsum.photos/200"
+    },
+    {
+      "id": "7",
+      "title": "Wireless Keyboard ",
+      "category": "Device ",
+      "price": "999",
+      "description": "Wireless keyboard. To be connected to using the USB.",
+      "inStock": "",
+      "poster": "https://picsum.photos/200"
+    },
+    {
+      "id": "8",
+      "title": "Laptop Stand",
+      "category": "Utility",
+      "price": "299",
+      "description": "Good for neck pain.",
+      "inStock": "false",
+      "poster": "https://picsum.photos/200"
+    },
+    {
+      "id": "9",
+      "title": "Book",
+      "category": "Education",
+      "price": "80",
+      "description": "You can develop your knowledge using this.",
+      "inStock": "false",
+      "poster": "https://picsum.photos/200"
+    },
+    {
+      "id": 316,
+      "title": "Pizza",
+      "category": "Eateries",
+      "price": "9.99",
+      "description": "Tasty pizza.",
+      "inStock": "",
+      "poster": "https://picsum.photos/200"
+    }
+  ]
+}

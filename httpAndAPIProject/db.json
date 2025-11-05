@@ -1,0 +1,152 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "title": "Smartphone X",
+      "category": "Electronics",
+      "price": 1000,
+      "description": "A high-end smartphone with a powerful camera and long-lasting battery.",
+      "discount": {
+        "type": "Flash Sale"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Laptop Pro 15",
+      "category": "Electronics",
+      "price": 2000,
+      "description": "Powerful laptop for professionals, ideal for heavy tasks and multitasking."
+    },
+    {
+      "id": "3",
+      "title": "Organic Coffee Beans",
+      "category": "Groceries",
+      "price": 1000,
+      "description": "Premium organic coffee beans, medium roast, 250g pack."
+    },
+    {
+      "id": "4",
+      "title": "Bluetooth Headphones",
+      "category": "Electronics",
+      "price": 4000,
+      "description": "Comfortable over-ear headphones with excellent sound quality.",
+      "discount": {
+        "type": "Seasonal Offer"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Running Shoes Z1",
+      "category": "Footwear",
+      "price": 3000,
+      "description": "Lightweight running shoes designed for optimal performance."
+    },
+    {
+      "id": "6",
+      "title": "Smart Watch Series 5",
+      "category": "Wearable Tech",
+      "price": 3000,
+      "description": "Feature-rich smartwatch with health tracking and notifications."
+    },
+    {
+      "id": "7",
+      "title": "Cookbook: Italian Delights",
+      "category": "Books",
+      "price": 2000,
+      "description": "A collection of authentic Italian recipes for home cooks."
+    },
+    {
+      "id": "8",
+      "title": "Gaming Keyboard RGB",
+      "category": "Electronics",
+      "price": 4000,
+      "description": "Mechanical gaming keyboard with customizable RGB backlighting.",
+      "discount": {
+        "type": "Loyalty Discount"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Yoga Mat Premium",
+      "category": "Fitness",
+      "price": 1000,
+      "description": "Durable and non-slip yoga mat, perfect for all levels."
+    },
+    {
+      "id": "10",
+      "title": "Portable Charger 10000mAh",
+      "category": "Accessories",
+      "price": 2000,
+      "description": "Patch Work"
+    },
+    {
+      "id": 11,
+      "title": "gfdsgfsdgfsd",
+      "category": "ghjghjhg",
+      "price": 3245,
+      "description": "dhfdhfd"
+    }
+  ],
+  "Reviews": [
+    {
+      "id": "1",
+      "rating": 5,
+      "comment": "Absolutely love this phone! The camera is fantastic.",
+      "productId": 1
+    },
+    {
+      "id": "2",
+      "rating": 4,
+      "comment": "Solid laptop, very fast for coding and video editing.",
+      "productId": 2
+    },
+    {
+      "id": "3",
+      "rating": 5,
+      "comment": "Best coffee ever! Rich flavor and great aroma.",
+      "productId": 3
+    },
+    {
+      "id": "4",
+      "rating": 4,
+      "comment": "Good sound quality for the price, comfortable fit.",
+      "productId": 4
+    },
+    {
+      "id": "5",
+      "rating": 3,
+      "comment": "Shoes are okay, but sizing runs a bit small.",
+      "productId": 5
+    },
+    {
+      "id": "6",
+      "rating": 5,
+      "comment": "The smartwatch has all the features I needed, very happy.",
+      "productId": 6
+    },
+    {
+      "id": "7",
+      "rating": 4,
+      "comment": "Great recipes, easy to follow even for beginners.",
+      "productId": 7
+    },
+    {
+      "id": "8",
+      "rating": 5,
+      "comment": "Keyboard feels amazing, RGB effects are a nice touch.",
+      "productId": 8
+    },
+    {
+      "id": "9",
+      "rating": 1,
+      "comment": "Horrible product, it broke within a week. Do not buy.",
+      "productId": 1
+    },
+    {
+      "id": "10",
+      "rating": 4,
+      "comment": "Perfect for my daily yoga sessions. Good grip.",
+      "productId": 9
+    }
+  ]
+}

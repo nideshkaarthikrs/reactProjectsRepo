@@ -1,0 +1,49 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "title": "Smartphone X",
+      "category": "Electronics",
+      "price": 1000,
+      "description": "A high-end smartphone with a powerful camera and long-lasting battery.",
+      "inStock":true,
+      "poster": "https://picsum.photos/200"
+    },
+    {
+      "id": "2",
+      "title": "Laptop Pro 15",
+      "category": "Electronics",
+      "price": 2000,
+      "description": "Powerful laptop for professionals, ideal for heavy tasks and multitasking.",
+      "inStock":false,  
+      "poster": "https://picsum.photos/200"
+    },
+    {
+      "id": "3",
+      "title": "Organic Coffee Beans",
+      "category": "Groceries",
+      "price": 1000,
+      "description": "Premium organic coffee beans, medium roast, 250g pack.",
+      "inStock":true,
+      "poster": "https://picsum.photos/200"
+    },
+    {
+      "id": "4",
+      "title": "Bluetooth Headphones",
+      "category": "Electronics",
+      "price": 4000,
+      "description": "Comfortable over-ear headphones with excellent sound quality.",
+      "inStock":false,
+      "poster": "https://picsum.photos/200"
+    },
+    {
+      "id": "5",
+      "title": "Running Shoes Z1",
+      "category": "Footwear",
+      "price": 3000,
+      "description": "Lightweight running shoes designed for optimal performance.",
+      "inStock":true,
+      "poster": "https://picsum.photos/200"
+    }
+  ]
+}
