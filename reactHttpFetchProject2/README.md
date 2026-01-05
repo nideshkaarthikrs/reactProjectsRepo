@@ -4,7 +4,7 @@
 2. await keyword needs to be used for waiting for a certain task to be completed. 
 eg: while waiting for the api to return the data
 3. await keyword must be used inside an async function
-4. In Promises, we had .catch() to catch the errors... But in this case we will be use try...catch blocks (exception handling) to catch the errors (if the api doesn't return data or server error etc...)
+4. In Promises, we had .catch() to catch the errors... But in this case we will use try...catch blocks (exception handling) to catch the errors (if the api doesn't return data or server error etc...)
 
 # Use POST method to create a new record
 
