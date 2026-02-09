@@ -14,9 +14,9 @@ useEffect = componentDidMount + componentDidUpdate + componentWillUnmount (class
 
 
 Syntax for using useEffect() hook:
-useState(callbackFunction, dependencies)
-callbackFunction - what to run -> we write the sideEffect logic
-dependencies - when to run
+* useState(callbackFunction, dependencies)
+* callbackFunction - what to run -> we write the sideEffect logic
+* dependencies - when to run
 
 To use this:
 ------------
