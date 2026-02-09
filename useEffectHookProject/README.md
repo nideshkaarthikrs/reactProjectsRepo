@@ -6,7 +6,7 @@ Used to perform side effects in our functional components
 Side effects are some actions which we perform outside world (react component or code) 
 eg: 1.fetching data from an API 
     2.posting data and deleting data using API
-    3.directly updating DOM - using document of window object in JavaScript
+    3.directly updating DOM - using document or window object in JavaScript
     4.using JavaScript timer functions like - setTimeout(), setInterval()
     etc...
 
