@@ -10,7 +10,7 @@ eg: 1.fetching data from an API
     4.using JavaScript timer functions like - setTimeout(), setInterval()
     etc...
 
-useEffect = componentDidMout + componentDidUpdate + componentWillUnmout (class component lifecycle methods)
+useEffect = componentDidMount + componentDidUpdate + componentWillUnmount (class component lifecycle methods)
 
 
 Syntax for using useEffect() hook:
