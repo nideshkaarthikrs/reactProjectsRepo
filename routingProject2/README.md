@@ -1,6 +1,6 @@
 !IMPORTANT THING BEFORE MOVING ON!
 ----------------------------------
-While specifying path in 'to' attribute of Link of NavLink component, if we give the path with slash, then it is absolute path, and if we give it without slash then it is relative path.
+While specifying path in 'to' attribute or Link of NavLink component, if we give the path with slash, then it is absolute path, and if we give it without slash then it is relative path.
 eg:
 let's say the current path is localhost:3000/products
 
